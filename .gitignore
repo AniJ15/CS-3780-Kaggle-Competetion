@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Kaggle data and generated outputs
+data/
+models/
+submissions/
+cache/
+
+# Local environments
+.venv/
+venv/
